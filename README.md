@@ -1,2 +1,3 @@
 # Projeto-Spring-Boot
-Projeto Spring Boot - Prof.Nelio Alves
+Projeto Spring Boot - criado a partir das aulas do Prof.Nelio Alves
+#Sobre o Projeto
